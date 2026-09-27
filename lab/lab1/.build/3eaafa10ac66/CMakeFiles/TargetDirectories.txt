@@ -1,0 +1,3 @@
+/mnt/c/Users/martin/Desktop/MEMORY/lab/lab1/.build/3eaafa10ac66/CMakeFiles/lab1_compare.dir
+/mnt/c/Users/martin/Desktop/MEMORY/lab/lab1/.build/3eaafa10ac66/CMakeFiles/edit_cache.dir
+/mnt/c/Users/martin/Desktop/MEMORY/lab/lab1/.build/3eaafa10ac66/CMakeFiles/rebuild_cache.dir

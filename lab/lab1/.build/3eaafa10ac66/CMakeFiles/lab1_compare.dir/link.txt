@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/lab1_compare.dir/link.d CMakeFiles/lab1_compare.dir/lab1_read_write_student.cc.o -o lab1_compare  /mnt/c/Users/martin/Desktop/MEMORY/lab/lab1/lab1.a -lm
