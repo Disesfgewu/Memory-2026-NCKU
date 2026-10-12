@@ -1,0 +1,5 @@
+/mnt/c/Users/martin/Desktop/MEMORY/lab/lab2/.build/b2376dd88930/CMakeFiles/lab2_student_gc.dir
+/mnt/c/Users/martin/Desktop/MEMORY/lab/lab2/.build/b2376dd88930/CMakeFiles/lab2_reference.dir
+/mnt/c/Users/martin/Desktop/MEMORY/lab/lab2/.build/b2376dd88930/CMakeFiles/lab2_student.dir
+/mnt/c/Users/martin/Desktop/MEMORY/lab/lab2/.build/b2376dd88930/CMakeFiles/edit_cache.dir
+/mnt/c/Users/martin/Desktop/MEMORY/lab/lab2/.build/b2376dd88930/CMakeFiles/rebuild_cache.dir

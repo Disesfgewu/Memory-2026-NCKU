@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--export-dynamic -rdynamic -Wl,--dependency-file=CMakeFiles/lab2_reference.dir/link.d CMakeFiles/lab2_reference.dir/link_anchor.cc.o -o lab2_reference  -Wl,--start-group /mnt/c/Users/martin/Desktop/MEMORY/lab/lab2/lab2.a -Wl,--end-group

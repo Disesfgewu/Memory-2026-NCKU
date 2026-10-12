@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--export-dynamic -rdynamic -Wl,--dependency-file=CMakeFiles/lab2_student.dir/link.d CMakeFiles/lab2_student.dir/link_anchor.cc.o CMakeFiles/lab2_student_gc.dir/lab2_gc_student.cc.o -o lab2_student  -Wl,--start-group /mnt/c/Users/martin/Desktop/MEMORY/lab/lab2/lab2.a -Wl,--end-group
